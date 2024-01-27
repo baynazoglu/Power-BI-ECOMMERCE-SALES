@@ -1,4 +1,4 @@
-# **E-Commerce Sales Insights Analysis By POWERBI**
+# **POWERBI ECOMMERCE SALES**
 
 ## Overview
 This project offers an in-depth analysis of an e-commerce enterprise leveraging **Power BI tools**. Key business metrics and trends are visualized through a comprehensive dashboard. The insights derived facilitate data-driven decision-making, aiding business growth. The project incorporates forecasting techniques for predictive analysis.
@@ -15,7 +15,7 @@ To run this project, ensure you have **Microsoft Power BI** installed on your sy
 * DAX Query
 
 ## Dashboard
-![Ecommerce_Sales_Insights_page-0001](https://github.com/Praveendinesha/Sales-Insights-Analysis/assets/142248403/f5a42c27-1638-49cb-9ee0-3521b29bc9c1)
+![Ecommerce_Sales_Insights_page-0001](https://github.com/baynazoglu/Power-BI-ECOMMERCE-SALES/blob/main/screenshot.png)
 
 ## Dashboard Insights
 **Key Performance Indicators (KPIs):** Total Profit, Total Sales, Total Quantity, Profit Margin%
